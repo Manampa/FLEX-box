@@ -11,6 +11,8 @@
     border: 2px solid red;
     display: flex;
     justify-content: center;
+    align-items: center;
+
 
 }
 
@@ -18,4 +20,10 @@
     width: 100px;
     height: 100px;
     border: 4px solid blue;
+}
+
+.boxx {
+    width: 100px;
+    height: 100px;
+    border: 4px solid red;
 }
